@@ -1,4 +1,4 @@
-# Buscador de CEP em React
+# Controle de finanças em React
 
 Este é um projeto simples de um buscador de To do list em formato de controle financeiro.
 
